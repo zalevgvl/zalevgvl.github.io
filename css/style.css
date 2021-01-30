@@ -45,18 +45,15 @@ body {
 .container {
     width: 1920px;
     margin: 0 auto;
-    border: 3px solid black;
-    box-sizing: border-box;
+   /* border: 3px solid black;
+    box-sizing: border-box;*/
 }
 
 .page-header {
     width: 100%;
-    border: 1px solid red;
     padding: 40px;
     box-sizing: border-box;
     color: #ffffff;
-
-    
   /*  min-height: 1024px;       */
     background-color: rgba(17,17,17,0.7);
     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../img/bg-photo.png');
@@ -807,7 +804,6 @@ body {
 .main-devices {
     /* border: 3px solid red;
     box-sizing: border-box;*/
-    width: 100%;
     padding: 195px 388px 0 875px;
     min-height: 695px;
     font-family: montserrat-light, arial, sans-serif;
